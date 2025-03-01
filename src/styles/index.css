@@ -9,3 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#container{
+    background-color: black;
+    color: wheat;
+    font-size: 30px;
+    display: flex;
+    padding: 30px;
+}
+
+#card{
+    padding: 2em;
+    justify-content: center;
+}
