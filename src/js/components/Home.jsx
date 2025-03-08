@@ -1,7 +1,5 @@
 import React from "react";
-import { counter } from "./counter";
-//include images into your bundle
-//create your first component
+
 const Home = ({ seconds }) => {
 	/*if (seconds < 10){
 		return seconds -1;
